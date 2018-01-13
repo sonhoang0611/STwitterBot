@@ -1,0 +1,18 @@
+{
+  "name": "stwitbot",
+  "version": "1.0.0",
+  "description": "A simple twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Son.ht",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  },
+  "engines": {
+    "node": "8.6.0"
+  }
+}
